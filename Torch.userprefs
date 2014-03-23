@@ -1,0 +1,11 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/konstormozhev/Projects/Torch.Android/Torch/MainActivity.cs" line="27" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Torch AndroidDeviceId-Debug="emulator-5554" MonoForAntroid.PreferredDevice="Galaxy Nexus" AndroidDeviceId-Release="emulator-5554" MonoForAntroid.PreferredTheme="Theme.Black.NoTitleBar" />
+</Properties>
