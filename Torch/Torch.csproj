@@ -43,8 +43,9 @@
     <AndroidLinkMode>Full</AndroidLinkMode>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="System" />
     <Reference Include="Mono.Android" />
+    <Reference Include="System" />
+	<Reference Include="mscorlib" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MainActivity.cs" />
